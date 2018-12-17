@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "811662850080",
+    "firebase_url": "https://jakartatanggap.firebaseio.com",
+    "project_id": "jakartatanggap",
+    "storage_bucket": "jakartatanggap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811662850080:android:7463ad8d385f6bb3",
+        "android_client_info": {
+          "package_name": "com.jtgp.canraaripin.jakartatanggap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811662850080-e598dj3p3ieccjjd1v63v0g5crso3au7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jtgp.canraaripin.jakartatanggap",
+            "certificate_hash": "9158db45ffdd25f49950397c8bcbc767aed1a177"
+          }
+        },
+        {
+          "client_id": "811662850080-g53o1mjk6qlb0nk6j0voc0h9nq8fj9bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9U8V0msJ14jOXD-7lyfa8lDVfQXTJwBg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811662850080-g53o1mjk6qlb0nk6j0voc0h9nq8fj9bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

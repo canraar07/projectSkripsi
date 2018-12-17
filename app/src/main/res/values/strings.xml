@@ -1,0 +1,73 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Jakarta Tanggap Kecelakaan</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_p3k">Pertolongan Pertama</string>
+    <string name="desc_pingsan">
+        1. Dengan membaringkannya di permukaan yang datar. Angkat kaki setinggi posisi jantung berada. Setelah itu, buka kancing kerah baju atau longgarkan ikat pinggangnya.\n\n
+        2. Jika setelah satu menit dia sadarkan diri, jangan langsung menyuruhnya duduk atau berdiri untuk menghindarinya pingsan kembali. Namun jika dalam jenjang waktu tersebut dia belum kunjung sadar, segera hubungi tim medis.\n\n
+        3. Anda bisa langsung mengecek sistem pernapasannya masih bekerja atau tidak. Jika Anda tidak merasakan hembusan napas atau pergerakan dada, Anda bisa memberikan napas buatan atau CPR (cardiopulmonary resuscitation).
+    </string>
+    <string name="desc_sock">
+        Syok di sini tidak sama dengan kaget, meski hal ini bisa terjadi pula jika seseorang mengalami kecelakaan. Dalam istilah medis, syok terjadi karena terganggunya sistem peredaran darah, misalnya akibat pendarahan yang hebat. Hal ini dapat mengurangi pasokan oksigen ke organ-organ vital tubuh, seperti otak.
+        \n\n
+        Syok bisa mengancam jiwa jika tidak ditangani dengan baik. Oleh karena itu, penting untuk mengetahui tanda-tanda seseorang yang mengalami syok, yaitu berkeringat, kulit berubah menjadi pucat dan teraba dingin, lemas, pusing, merasa haus, kemungkinan korban akan muntah, pernapasannya menjadi lebih cepat atau terengah-engah.
+        \n\n
+        Jika tanda-tanda ini dialami oleh korban, segera hubungi tim medis. Sembari menunggu kedatangan tim medis, Anda bisa baringkan korban jika memungkinkan dan angkat bagian kaki. Anda juga dapat menghangatkan tubuh korban dengan jaket agar dia merasa lebih nyaman. Saat menghadapi kondisi ini, hindari memberikannya makanan atau minuman apa pun.
+    </string>
+    <string name="desc_kseleo">
+        Seseorang akan mengalami keseleo ketika serat-serat ligamen sobek. Padahal, peranan ligamen dalam tubuh sangat penting, yakni sebagai pita elastis yang menghubungkan tulang-tulang dan untuk menahan sendi-sendi agar tetap berada di tempatnya.
+        \n\n
+        Korban kecelakaan sepeda motor bisa saja mengalami keseleo, misal pada bagian pergelangan kakinya. Umumnya, bagian tubuh yang keseleo akan terasa sakit dan mengalami pembengkakan.
+        \n\n
+        Anda bisa memberikan pertolongan pertama pada keseleo, dengan cara:
+        \n\n
+        1. Mengistirahatkan anggota tubuh yang keseleo.\n\n
+        2. Setelah itu, kompres dengan air es guna mengurangi pembengkakan. Jika Anda hanya menggunakan es batu, pastikan pengompresannya jangan terlalu lama karena bisa merusak jaringan kulit.\n\n
+        3. Angkat bagian yang cedera lebih tinggi dari posisi jantung berada untuk mengurangi pembengkakan.
+    </string>
+    <string name="desc_patahtulang">
+        Mengetahui apakah korban mengalami patah tulang atau tidak bukanlah perkara yang mudah. Namun, jika Anda melihat korban merasa kesakitan pada anggota tubuhnya dan tidak bisa menggerakkannya, Anda bisa menangani cedera itu sebagai kondisi patah tulang.
+        \n\n
+        Berikut cara untuk menangani patah tulang:
+        \n\n
+        1. Jangan menggerakkan bagian yang cedera. Untuk patah tulang belakang, Jangan menggerakkan korban dan disarankan untuk segera menghubungi tim medis untuk menanganinya.\n\n
+        2. Pada kondisi ini, jangan memberi makanan atau minuman apa pun kepada korban yang mengalami patah tulang. Kemungkinan mereka kemungkinan akan diberikan obat bius ketika sampai di rumah sakit.
+    </string>
+    <string name="desc_lukabakar">
+        1. Luka bakar yang dialami korban kecelakaan sepeda motor, dapat disebabkan karena kulit bersentuhan dengan knalpot yang panas. Untuk mengatasi luka bakar, Anda harus segera mendinginkan luka dengan air dingin yang mengalir, namun bukan air es, selama 20 menit atau hingga rasa sakit hilang. Jika air dingin tidak ada, Anda bisa gunakan minuman dingin lain. Jangan mengoleskan krim, salep, atau minyak pada luka tersebut. Tindakan ini sebaiknya dilakukan segera setelah kejadian atau dalam waktu 20 menit setelah kejadian.
+        \n\n
+        2. Selanjutnya, Anda bisa membungkus dengan longgar luka bakar dengan plastic wrap, atau plastik yang bersih dan tembus pandang untuk luka bakar di tangan.
+        \n\n
+        3. Selagi proses pendinginan dilakukan, Anda bisa menghangatkan tubuh korban dengan jaket atau apa pun yang bisa mencegah korban dari kedinginan atau hipotermia. Akan tetapi, hindari daerah yang terkena luka bakar.
+        \n\n
+        4. Setelah melakukan pertolongan pertama ini, Anda bisa membawa korban ke rumah sakit terdekat untuk mendapat penanganan lebih lanjut.
+    </string>
+    <string name="desc_pendarahan">
+        1. Hal yang sering terjadi saat kecelakaan adalah pendarahan. Jika Anda melihat ada bagian tubuh korban yang berdarah, terutama jika pendarahannya parah, upayakan untuk segera menghentikan pendarahan tersebut agar korban tidak kehabisan darah.
+        \n\n
+        2. Sebelum menangani kulit yang berdarah, gunakan sarung tangan sekali pakai, jika ada, guna meminimalkan penularan penyakit infeksi.
+        \n\n
+        3. Anda bisa menghentikannya dengan cara menekan area yang terluka. Gunakan kapas atau perban jika tersedia. Kemudian tekan luka hingga pendarahan berhenti. Jika darah masih menembus melewat perban, lapisi lagi dengan kapas atau perban dan tekan hingga pendarahan berhenti. Jangan membuka perban awal, cukup dicek secara berkala untuk memeriksa apakah darah sudah berhenti mengucur.
+        \n\n
+        4. Terkadang terdapat benda yang tertancap pada area yang terluka. Jika menghadapi kasus yang seperti ini, jangan pernah mencoba mengeluarkan atau menekannya, tapi serahkan hal itu kepada tim medis. Sebagai pertolongan pertama, Anda bisa menekan sisi kiri dan kanan area yang terselip benda, lalu letakkan kasa atau kain bersih mengitari luka tersebut sebagai penahan agar benda yang tertancap tidak bergerak. Setelah itu balut dengan perban.
+        \n\n
+        5. Jika ada anggota badan yang terputus, seperti jari, bungkus jari tersebut dengan kantong plastik atau plastik pembungkus (plastic wrap). Setelah itu, pastikan agar anggota badan yang terputus tadi ikut dibawa bersama korban ke rumah sakit.
+        \n\n
+        6. Selalu cari bantuan medis untuk korban yang mengalami pendarahan, kecuali pendarahan kecil.
+    </string>
+    <string-array name="p3karray">
+        <item>Jika korban mengalami pendarahan</item>
+        <item>Jika korban mengalami luka bakar</item>
+        <item>Jika korban mengalami keseleo</item>
+        <item>Jika korban mengalami patah tulang</item>
+        <item>Jika korban mengalami syok</item>
+        <item>Jika korban pingsan</item>
+    </string-array>
+</resources>
